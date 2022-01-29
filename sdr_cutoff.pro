@@ -2,24 +2,24 @@ EAGLE AutoRouter Statistics:
 
 Job           : /home/fzanchi/EAGLE/projects/SDR cutoff/sdr_cutoff.brd
 
-Start at      : 17:05:49 (25/01/2022)
-End at        : 17:05:57 (25/01/2022)
-Elapsed time  : 00:00:04
+Start at      : 21:26:21 (27/01/2022)
+End at        : 21:27:16 (27/01/2022)
+Elapsed time  : 00:00:15
 
-Signals       :    13   RoutingGrid: 6 mil  Layers: 1
-Connections   :    23   predefined:  1 ( 0 Vias )
+Signals       :    12   RoutingGrid: 6 mil  Layers: 1
+Connections   :    24   predefined:  6 ( 0 Vias )
 
 Router memory :   205692
 
 Passname          : TopRouter     Route Optimize1 Optimize2 Optimize3 Optimize4
 
-Time per pass     :  00:00:03  00:00:00  00:00:00  00:00:00  00:00:00  00:00:01
+Time per pass     :  00:00:14  00:00:00  00:00:00  00:00:00  00:00:01  00:00:00
 Number of Ripups  :         0         0         0         0         0         0
 max. Level        :         0         0         0         0         0         0
 max. Total        :         0         0         0         0         0         0
 
-Routed            :        22        22        19        20        20        21
+Routed            :         5        18        18        18        18        18
 Vias              :         0         0         0         0         0         0
-Resolution        :   100.0 %   100.0 %    87.0 %    91.3 %    91.3 %    95.7 %
+Resolution        :    45.8 %   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
 
-Final             : 95.7% finished
+Final             : 100.0% finished
